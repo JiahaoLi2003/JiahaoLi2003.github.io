@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Jiahao Li (李嘉豪)"
-description              : "blog正在创建中... "
+description              : "blog仍在创建中... "
 repository               : "JiahaoLi2003/JiahaoLi2003.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Jiahao Li (李嘉豪)"
   avatar           : "images/me-512x512.png"
-  bio              : "Dalian University of Technology"
+  bio              : "Junior undergrad at Dalian University of Technology"
   location         : "China"
   employer         :
   pubmed           : 
