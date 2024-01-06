@@ -94,6 +94,7 @@ Research Intern, 2023.7 - present
 - *2023.01* APMCM亚太地区大学生数学建模竞赛二等奖
 - *2023.7* MathorCup高校数学建模竞赛三等奖
 - *2022.10* 大连理工大学阳光教育奖学金
+- *2022、2023* 连续两年被评为大连理工大学校优秀三好学生
 
 # Educations
 - *2021.09 - 2025.06 (now)*, Dalian University of Technology, majoring in **Software Technology (大连理工大学软件学院). 
