@@ -89,7 +89,7 @@ Research Intern, 2023.7 - present
 
 
 # Honors and Awards
-- *2023.10* National Scholarship (0.2% of college students per year)
+- *2023.10* National Scholarship国家奖学金 (0.2% of college students per year)
 - *2022.11* Huawei Smart Pedestal Scholarship(华为智能基座学生奖学金)
 - *2023.01* APMCM亚太地区大学生数学建模竞赛二等奖
 - *2023.7* MathorCup高校数学建模竞赛三等奖
