@@ -89,14 +89,16 @@ Research Intern, 2023.7 - present
 
 
 # Honors and Awards
-<!-- - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
-
+- *2023.10* National Scholarship (0.2% of college students per year)
+- *2022.11* Huawei Smart Pedestal Scholarship(华为智能基座学生奖学金)
+- *2023.01* APMCM亚太地区大学生数学建模竞赛二等奖
+- *2023.7* MathorCup高校数学建模竞赛三等奖
+- *2022.10* 大连理工大学阳光教育奖学金
 
 # Educations
-<!-- - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+- *2021.09 - 2025.06 (now)*, Dalian University of Technology, majoring in **Software Technology (大连理工大学软件学院). 
+
+- *2018.09 - 2021.06*, 辽宁省实验中学营口分校.
 
 
 # Internships
-<!-- - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
