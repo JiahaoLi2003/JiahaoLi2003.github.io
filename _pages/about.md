@@ -34,27 +34,27 @@ In addition to studying and research, I love to play basketball, sing and other 
 
 # News
 - *2023.12*: &nbsp;🎉🎉 Team's recent work Experiential Co-Learning of Software-Developing Agents has released on [arXiv:2312.17025](https://arxiv.org/abs/2312.17025)
-- *2023.11*: I was invited by the Dalian University of Technology Entrepreneurship Alumni Association to share [ChatDev](https://github.com/OpenBMB/ChatDev) work.
+- *2023.11*: 😊 I was invited by the Dalian University of Technology Entrepreneurship Alumni Association to share [ChatDev](https://github.com/OpenBMB/ChatDev) work.
 - *2023.08*: &nbsp;🎉🎉 The project I participated in, [ChatDev](https://github.com/OpenBMB/ChatDev), was officially open sourced.
-
-# Research Experience
-
 
 # Publications 
 
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/Co-Learning.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Experiential Co-Learning of Software-Developing Agents](https://arxiv.org/pdf/2312.17025.pdf)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+Chen Qian, Yufan Dang, **Jiahao Li**, Wei Liu, Weize Chen, Cheng Yang, Zhiyuan Liu, Maosong Sun
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Project**](https://scholar.google.cz/citations?view_op=view_citation&hl=zh-CN&user=4fIdsj8AAAAJ&citation_for_view=4fIdsj8AAAAJ:2osOgNQ5qMEC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
+- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+
+# Research Experience
+
 
 # Honors and Awards
 <!-- - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
