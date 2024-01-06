@@ -23,7 +23,7 @@ Now working as a research intern at [THUNLP](https://nlp.csai.tsinghua.edu.cn/) 
 
 **Actively seeking for a Master & Ph.D. opportunities  on NLP/LLM in the fall of 2025**!
 
-In 2023, I won the **National Scholarship** (**0.2%** of college students per year) and 5 individual scholarships of various kinds, and in 2022, I won Huawei Smart Pedestal Scholarship and 5 individual scholarships of various kinds.
+In 2023, I won the **National Scholarship** (**0.2%** of college students per year) and 5 individual scholarships of various kinds, and in 2022, I won Huawei Smart Pedestal Scholarship.
 
 In addition to studying and scientific research, I love to play basketball, sing and other activities.
 
