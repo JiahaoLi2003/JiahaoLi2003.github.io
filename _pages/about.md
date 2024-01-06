@@ -36,9 +36,9 @@ In addition to studying and research, I love to play basketball, sing and other 
 
 
 # News
-- *2023.12*: &nbsp;🎉🎉 Team's recent work Experiential Co-Learning of Software-Developing Agents has released on [arXiv:2312.17025](https://arxiv.org/abs/2312.17025)
-- *2023.11*: 😊 I was invited by the Dalian University of Technology Entrepreneurship Alumni Association to share [ChatDev](https://github.com/OpenBMB/ChatDev) work.
-- *2023.08*: &nbsp;🎉🎉 The project I participated in, [ChatDev](https://github.com/OpenBMB/ChatDev), was officially open sourced.
+- *2023.12*: &nbsp;🎉🎉 Team's recent work **Experiential Co-Learning of Software-Developing Agents has released on [arXiv:2312.17025](https://arxiv.org/abs/2312.17025)**
+- *2023.11*: 😊 I was invited by the Dalian University of Technology Entrepreneurship Alumni Association to share **[ChatDev](https://github.com/OpenBMB/ChatDev)** work.
+- *2023.08*: &nbsp;🎉🎉 The project I participated in, **[ChatDev](https://github.com/OpenBMB/ChatDev)**, was officially open sourced.
 
 
 # Publications 
@@ -75,7 +75,7 @@ Research Intern, 2023.7 - present
 
 - Participating in project **[ChatDev](https://github.com/OpenBMB/ChatDev)**: Championed the open-source repository through comprehensive testing, optimized the dialogue-related mechanisms between agents, analyzed the generated logs, and carrying out routine maintenance.
 
-- Engaging in research on experiential Co-Learning of agents, by accumulating experience, collaborating with other agents, and making critical decisions. Forming a **[paper](https://arxiv.org/abs/2312.17025)** and a **patent** pending.
+- Engaging in research on experiential Co-Learning of agents, which equips agents to more effectively address unseen tasks by accumulating experience, collaborating with other agents, and making critical decisions. Forming a **[paper](https://arxiv.org/abs/2312.17025)** and a **patent** pending.
 
 - Now exploring the way to further improve the effect of the memory mechanism.
 
