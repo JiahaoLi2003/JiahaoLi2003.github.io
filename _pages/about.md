@@ -67,7 +67,16 @@ Chen Qian, Xin Cong, Wei Liu, Cheng Yang, Weize Chen, Yusheng Su, Yufan Dang, **
 
 
 # Research Experience
+[THUNLP](https://nlp.csai.tsinghua.edu.cn/)(清华大学自然语言处理实验室)
+Research Intern, 2023.7 - present
 
+- Participating in project [ChatDev](https://github.com/OpenBMB/ChatDev): Championed the open-source repository through comprehensive testing, optimized the dialogue-related mechanisms between agents, analyzed the generated logs, and carrying out routine maintenance.
+
+- Engaging in research on experiential Co-Learning of agents, by accumulating experience, collaborating with other agents, and making critical decisions.
+
+- Now exploring the way to further improve the effect of the memory mechanism.
+
+ 
 
 # Honors and Awards
 <!-- - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
