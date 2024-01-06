@@ -31,6 +31,8 @@ In addition to studying and research, I love to play basketball, sing and other 
 
 - I hope to continue explore the ability of agents driven by LLMs to handle complex downstream tasks, and explore the next emergence of AIGC capabilities through new paradigms such as compressed languages and designing efficient collaboration frameworks.
 
+- other abundant...
+
 
 # News
 - *2023.12*: &nbsp;🎉🎉 Team's recent work Experiential Co-Learning of Software-Developing Agents has released on [arXiv:2312.17025](https://arxiv.org/abs/2312.17025)
