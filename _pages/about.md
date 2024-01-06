@@ -19,9 +19,9 @@ redirect_from:
 
 I am currently a junior undergraduate student at **Dalian University of Technology**, majoring in **Software Technology**.
 
-Now working as a research intern at [THUNLP](https://nlp.csai.tsinghua.edu.cn/) (2023.7 - present), learning around LLM & (multi-) agent, participated in project [ChatDev](https://github.com/OpenBMB/ChatDev).
+Now working as a research intern at [THUNLP](https://nlp.csai.tsinghua.edu.cn/) (2023.7 - present), learning around LLM & (multi-) agent, and participated in project [ChatDev](https://github.com/OpenBMB/ChatDev).
 
-**Now actively seeking for a Master & Ph.D. opportunities  on NLP/LLM in the fall of 2025**!
+**Actively seeking for a Master & Ph.D. opportunities  on NLP/LLM in the fall of 2025**!
 
 In 2023, I won the **National Scholarship** (**0.2%** of college students per year) and 5 individual scholarships of various kinds, and in 2022, I won Huawei Smart Pedestal Scholarship and 5 individual scholarships of various kinds.
 
