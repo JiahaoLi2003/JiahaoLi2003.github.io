@@ -96,13 +96,13 @@ Research Intern, 2023.7 - present
 - *2022.10* 大连理工大学阳光教育奖学金
 - *2022、2023* 连续两年被评为大连理工大学校优秀三好学生
 
-# Educations
-- *2021.09 - 2025.06 (now)*, Dalian University of Technology, majoring in **Software Technology (大连理工大学软件学院). 
-
-- *2018.09 - 2021.06*, 辽宁省实验中学营口分校.
-
 
 # Internships
 
 Looking for a internship opportunities in the NLP/AI department.
 
+
+# Educations
+- *2021.09 - 2025.06 (now)*, Dalian University of Technology, majoring in **Software Technology (大连理工大学软件学院). 
+
+- *2018.09 - 2021.06*, 辽宁省实验中学营口分校.
