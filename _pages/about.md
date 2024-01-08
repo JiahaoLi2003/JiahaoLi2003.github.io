@@ -25,7 +25,7 @@ Now working as a research intern at **[THUNLP](https://nlp.csai.tsinghua.edu.cn/
 
 In 2023, I won the **National Scholarship** (**0.2%** of college students per year) and 5 individual scholarships of various kinds, and in 2022, I won **Huawei Smart Pedestal Scholarship**.
 
-In addition to studying and research, I love to play basketball, sing and other activities.
+In addition to studying and research, I love to play basketball, sing and other abundant activities.
 
 
 # Research Interest
