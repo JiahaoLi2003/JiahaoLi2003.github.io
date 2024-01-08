@@ -76,25 +76,25 @@ Research Intern, 2023.7 - present
 Topic 1: Multi-Agents Collaborative Software development - ChatDevs
 - Project Introduction: ChatDev is a virtual software company with multi-agents collaborative operation, through interactive collaboration between agents of different roles, software development according to the task needs of human users, and generate a complete software (including code and documentation).
 - Main contributions:
-  - 1. Championed the open-source repository through comprehensive testing and fixed bugs.
-  - 2. Modify the conversation prompt to optimize the relevant dialogue mechanism between agents.
-  - 3. Daily maintenance of the project's open source repository.
+  - Championed the open-source repository through comprehensive testing and fixed bugs.
+  - Modify the conversation prompt to optimize the relevant dialogue mechanism between agents.
+  - Daily maintenance of the project's open source repository.
 - Project Results:Paper currently published in **[arXiv:2307.07924](https://arxiv.org/pdf/2307.07924.pdf)**. **[ChatDev](https://github.com/OpenBMB/ChatDev)**, an open-source repository.
 
 Topic 2: Empirical Co-Learning of Software-Developing Agents
 - Project Introduction: By driving agents to extract shortcut experience in historical tasks, as well as memory storage, and mutual inference through experience sample retrieval in unseen tasks,the completion and compilation success rate of agent's autonomous software development are significantly improved.
 - Main contributions:
-  - 1. Implement the Self-Instruct script to generate instruction samples in the shortcut experience.
-  - 2. Empirical persistence experiment analysis, optimization and testing of memory storage mechanism.
-  - 3. Parse the generated log file.
-  - 4. Complete the experimental content such as task embedding generation classification, LLM software evaluation, dialogue analysis, etc.
+  - Implement the Self-Instruct script to generate instruction samples in the shortcut experience.
+  - Empirical persistence experiment analysis, optimization and testing of memory storage mechanism.
+  - Parse the generated log file.
+  - Complete the experimental content such as task embedding generation classification, LLM software evaluation, dialogue analysis, etc.
 - Project Results: Paper currently published in **[arXiv:2312.17025](https://arxiv.org/abs/2312.17025)**. and form a patent pending.
 
 
-- Now exploring the way to further improve the effect of the memory mechanism.
+Now exploring the way to further improve the effect of the memory mechanism.
 
 
-- Participating in the review of EMNLP-2023.
+**Participating in the review of EMNLP-2023**.
 
 
  **Innovation and Entrepreneurship Training Program for College Students - Generating adversarial text**
