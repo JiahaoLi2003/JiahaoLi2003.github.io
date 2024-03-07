@@ -21,19 +21,19 @@ I am currently a junior undergraduate student at **Dalian University of Technolo
 
 Now working as a research intern at **[THUNLP](https://nlp.csai.tsinghua.edu.cn/)** (2023.7 - present), learning around LLM & (multi-) agent, and participated in project **[ChatDev](https://github.com/OpenBMB/ChatDev)**.
 
-**Actively seeking for a Master & Ph.D. opportunities  on NLP/LLM in the fall of 2025**!
+**Actively seeking for a Master & Ph.D. opportunities in the fall of 2025**!
 
 In 2023, I won the **National Scholarship** (**0.2%** of college students per year) and 5 individual scholarships of various kinds, and in 2022, I won **Huawei Smart Pedestal Scholarship**.
 
 In addition to studying and research, I love to play basketball, sing and other abundant activities.
 
-
+<!--
 # Research Interest
 
 - I have the will to continue explore the ability of agents driven by LLMs to handle complex downstream tasks, and explore the next emergence of AIGC capabilities through new paradigms such as compressed languages and designing efficient collaboration frameworks.
 
 - other abundant...
-
+-->
 
 # News
 - *2023.12*: &nbsp;🎉🎉 Team's recent work **Experiential Co-Learning of Software-Developing Agents has released on [arXiv:2312.17025](https://arxiv.org/abs/2312.17025)**
