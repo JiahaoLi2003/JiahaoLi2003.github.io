@@ -17,25 +17,24 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a junior undergraduate student at **Dalian University of Technology**, majoring in **Software Technology**.
+I am currently a senior undergraduate student at **Dalian University of Technology**, majoring in **Software Technology**. And I will continue pursuing a master’s degree at **Tsinghua University**’s Department of Institute for Network Sciences and Cyberspace in 2025.
 
-Now working as a research intern at **[THUNLP](https://nlp.csai.tsinghua.edu.cn/)** (2023.7 - present), learning around LLM & (multi-) agent, and participated in project **[ChatDev](https://github.com/OpenBMB/ChatDev)**.
+Working as a research intern at **[THUNLP](https://nlp.csai.tsinghua.edu.cn/)** (2023.7 - present), learning around LLM & (multi-) agent, and participated in project **[ChatDev](https://github.com/OpenBMB/ChatDev)**.
 
-**Actively seeking for a Master & Ph.D. opportunities in the fall of 2025**!
-
-In 2023, I won the **National Scholarship** (**0.2%** of college students per year) and 5 individual scholarships of various kinds, and in 2022, I won **Huawei Smart Pedestal Scholarship**.
-
+I won the **National Scholarship** (**0.2%** of college students per year) both in 2023 and 2024.
 In addition to studying and research, I love to play basketball, sing and other abundant activities.
 
 <!--
 # Research Interest
 
-- I have the will to continue explore the ability of agents driven by LLMs to handle complex downstream tasks, and explore the next emergence of AIGC capabilities through new paradigms such as compressed languages and designing efficient collaboration frameworks.
+- I have the will to continue explore the ability of agents driven by LLMs to handle complex downstream tasks, and explore the next emergence of AIGC capabilities through new paradigms such as compressed languages and designing efficient collaboration frameworks. At the same time, I also look forward to discovering the application of agents in the field of satellite networks.
 
 - other abundant...
 -->
 
 # News
+- *2024.5*: &nbsp; Team's recent work **Chatdev: Communicative agents for software development** and **Experiential Co-Learning of Software-Developing Agents** has been accpted to the main conference to ACL 2024.
+- *2023.12*: &nbsp;🎉🎉 Team's recent work **Iterative Experience Refinement of Software-Developing Agents has released on [arXiv:2405.04219](https://arxiv.org/abs/2405.04219)**
 - *2023.12*: &nbsp;🎉🎉 Team's recent work **Experiential Co-Learning of Software-Developing Agents has released on [arXiv:2312.17025](https://arxiv.org/abs/2312.17025)**
 - *2023.11*: 😊 I was invited by the Dalian University of Technology Entrepreneurship Alumni Association to share **[ChatDev](https://github.com/OpenBMB/ChatDev)** work.
 - *2023.08*: &nbsp;🎉🎉 The project I participated in, **[ChatDev](https://github.com/OpenBMB/ChatDev)**, was officially open sourced.
@@ -104,6 +103,7 @@ Now exploring the way to further improve the effect of the memory mechanism.
 
 
 # Honors and Awards
+- *2024.10* National Scholarship国家奖学金 (0.2% of college students per year)
 - *2023.10* National Scholarship国家奖学金 (0.2% of college students per year)
 - *2022.11* Huawei Smart Pedestal Scholarship(华为智能基座学生奖学金)
 - *2023.01* APMCM亚太地区大学生数学建模竞赛二等奖
